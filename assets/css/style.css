@@ -136,8 +136,67 @@ nav .active a, a:hover {
 }
 .banner3 div{
     flex-direction: row; 
-    padding: 10px;
+    padding: 5px;
     border-bottom: white;
     
+    
+}
+
+#geral{
+    display: flex;
+    justify-content: center;
+}
+#geral section{
+    flex: 2;
+}
+#geral aside{
+    flex: 1;
+
+}
+.widget_title{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.widget_title_text{
+    color: #000;
+    font-size:21px ;
+    font-weight: bold;
+}
+.widget_title_bar{
+    width: 50px;
+    height: 3px;
+    background-color: #36a9e1;
+    margin-top: 10px;
+
+}
+.widget_body {
+    display: flex;
+   
+   
+}
+.widget_body_div{
+    height: 400px;
+    width: 200px;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.square{
+    padding: 7px;
+    height: 80px;
+    width: 80px;
+    border: 1px solid white;
+    background-color: #36a9e1;
+}
+article .news_data{
+    display: flex;
+
+}
+article .news_posted_at{
+    background-color: #2b4c99;
+    color: #fff;
+    font-size: 12px;
     
 }
