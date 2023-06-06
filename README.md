@@ -2,7 +2,7 @@
 
 Este é um projeto pessoal de estudos chamado Medicenter, criado com o objetivo de aprimorar os conhecimentos em front-end. O Medicenter é um website responsivo projetado para simular um centro médico, fornecendo informações sobre serviços médicos, especialidades, equipe médica e muito mais.
 
-![Screenshot](screenshot.png)
+![image](https://github.com/aureliodeboa/Medcenter/assets/53971991/f76d7bc3-c4a2-4673-bef6-0f7fa7cfd9e6)
 
 ## Tecnologias Utilizadas
 
@@ -39,13 +39,6 @@ Contribuições não são esperadas para este projeto, pois é um projeto pessoa
 
 Este projeto é apenas para fins de estudo e não possui uma licença específica.
 
-## Imagem do Projeto
 
-Você pode visualizar uma imagem do projeto abaixo:
-
-![image](https://github.com/aureliodeboa/Medcenter/assets/53971991/a6b23899-bc55-430b-9e09-1bc26311e578)
-
-
----
 
 Este README fornece uma visão geral do projeto Medicenter e instruções básicas para executá-lo. Se você tiver alguma dúvida ou quiser obter mais informações, sinta-se à vontade para entrar em contato.
