@@ -17,6 +17,8 @@ Este é um projeto pessoal de estudos chamado Medicenter, criado com o objetivo 
 - Mostra noticias medicas.
 - Possui um layout responsivo que se adapta a diferentes dispositivos e tamanhos de tela.
 - Possui um parter com os horarios livres 
+## Acesse 
+https://mellifluous-zabaione-2467d5.netlify.app/
 
 ## Como Usar
 
