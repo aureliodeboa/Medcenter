@@ -35,6 +35,7 @@ nav ul, nav li{
     list-style: none;
     margin: 0;
     padding: 0;
+    display: flex;
    
 }
 nav ul{
@@ -52,6 +53,7 @@ nav a{
 nav .active a, a:hover {
     background-color: #39aae1;
     color: white;
+    
 }
 #banner{
     background-image: url('../images/img1.jpg');
@@ -295,6 +297,83 @@ footer .widget_title_text{
     font-size: 12px;
     margin-top: 30px;
 }
-.footer_menu a {
+.menuMobile{
+    display: none;
+    height: 40px;
+    width: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+
+
+}
+.mm_line{
+    height: 3px;
+    background-color: #36a9e1;
+}
+nav ul li {
+    padding: 8px;
+}
+
+@media (max-width: 600px){
+    .banner_headline{
+        padding: 20px;
+    }
+    .banner_headline h1{
+        font-size: 55px;
+    }
+    .banner_headline h2 {
+        font-size: 17px;
+    }
+    .banner_options{
+        height: auto;
+        flex-direction: column;
+
+    }
+    #geral{
+        padding: 50px;
+
+    }
+    .container{
+        flex-direction: column;
+        
+
+    }
+    .footer_menu{
+        flex-direction: column;
+
+    }
+    .footer_area{
+        flex-direction: column;
+        padding: 20px;
+        
+    }
+    header .container{
+        flex-direction: row;
+        
+    }
     
+    nav ul{
+        flex-direction: column;
+        display: none;
+        position: absolute;
+        left: 0;
+        width: 100%;
+        background-color: white;
+    }
+    
+    
+    header {
+        height: auto;
+    }
+    .logo {
+        padding: 30px;
+
+    }
+    .menuMobile{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
 }
