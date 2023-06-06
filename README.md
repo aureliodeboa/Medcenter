@@ -1,6 +1,6 @@
 # Medicenter - Projeto de Estudos Pessoal
 
-Este é um projeto pessoal de estudos chamado Medicenter, criado com o objetivo de aprimorar os conhecimentos em front-end. O Medicenter é um website responsivo projetado para simular um centro médico, fornecendo informações sobre serviços médicos, especialidades, equipe médica e muito mais.
+O Medicenter é um website responsivo projetado para simular um centro médico, fornecendo informações sobre serviços médicos, especialidades, equipe médica e muito mais.
 
 ![image](https://github.com/aureliodeboa/Medcenter/assets/53971991/f76d7bc3-c4a2-4673-bef6-0f7fa7cfd9e6)
 
